@@ -4,7 +4,7 @@ This repository contains **three enterprise-level cybersecurity projects** compl
 
 ---
 
-## 📂 Projects Overview
+## Projects Overview
 
 1. **Basic Vulnerability Assessment for a Small Business Network**
 2. **Web Application Penetration Testing – OWASP Top 10 (DVWA)**
